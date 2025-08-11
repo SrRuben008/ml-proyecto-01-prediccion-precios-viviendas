@@ -1,0 +1,11 @@
+{
+  "RMSE": 0.5029991264046748,
+  "MAE": 0.32617030964805854,
+  "R2": 0.8069243073231187,
+  "Best Params": {
+    "max_depth": 20,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2,
+    "n_estimators": 400
+  }
+}
