@@ -15,7 +15,7 @@ El objetivo es aplicar un flujo completo de *Machine Learning*:
 - **Filas**: 20640
 - **Columnas**: 8 columnas (características) + 1 target (`MedHouseVal`)
 - **Unidades**:
-  - `MedInc`: decenas de miles USD.
+  - `MedInc`: Media de los ingresos en decenas de miles USD.
   - `HouseAge`: años.
   - `AveRooms`, `AveBedrms`: medias por vivienda de habitaciones y dormitorios.
   - `Population`: personas.
